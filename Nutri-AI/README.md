@@ -1,4 +1,4 @@
-tgisNutri-AI
+Nutri-AI
 
 Project scaffold for Nutri-ML pipeline.
 
