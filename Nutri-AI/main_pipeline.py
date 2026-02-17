@@ -43,3 +43,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# Run the script daily at 2:00 AM
+# 0 2 * * * /Users/apple/Nutrialth/run_git_push.sh >> /Users/apple/Nutrialth/auto_git.log 2>&1
